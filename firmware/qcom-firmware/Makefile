@@ -15,7 +15,7 @@ PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/lkiuyu/qcom-firmware.git
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.xz
 PKG_SOURCE_VERSION:=12631dbd3678ad524e0f1c8c788829c4398c15ce
-PKG_MIRROR_HASH:=01aec59508f8fec7a5a77e4b8b5ab4a8fa574bec5745a03380dc3115f00399c7
+PKG_MIRROR_HASH:=skip
 
 PKG_MAINTAINER:=Handsomeyingyan <handsomeyingyan@gmail.com>
 STRIP:=:
